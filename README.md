@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **node.js,express,MySql,MongoDb,react**
 
-- 📫 How to reach me **saieswarsatyavarapu@gmail.com**
+- 📫 How to reach me **eswarsatyavarapu7981@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hzqa3zFkOMibazwsek9AHkN-VFxnV1hP/view?usp=drive_link](https://drive.google.com/file/d/1Hzqa3zFkOMibazwsek9AHkN-VFxnV1hP/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
