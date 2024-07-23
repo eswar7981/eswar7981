@@ -2,17 +2,18 @@
 <h1 align="center">Hi 👋, I'm Sai Eswar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img display="block"  align='center' width='400' src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
+<img display="block"  align='center' width='4000' src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
 
  <p><img   src="https://komarev.com/ghpvc/?username=eswar7981&label=Profile%20views&color=0e75b6&style=flat" alt="eswar7981" /> </p>
 
-- 💬 Ask me about **node.js,express,MySql,MongoDb,react**
+- 💬 Technologies **node.js,express,MySql,MongoDb,react**
 
 - 📫 How to reach me **eswarsatyavarapu7981@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BhCnH7FZnQnWpLkzBM3r9uQ%3D%3D
 <p align="left">
 </p>
 
