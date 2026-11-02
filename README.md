@@ -1,72 +1,103 @@
+# Hi 👋, I'm Sai Eswar
 
-<h1 align="center">Hi 👋, I'm Sai Eswar</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<p align='center'><img   align='center' width='300' src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
-</p>
+### ROS 2 Developer | C++ | Autonomous Mobile Robotics
 
- <p><img   src="https://komarev.com/ghpvc/?username=eswar7981&label=Profile%20views&color=0e75b6&style=flat" alt="eswar7981" /> </p>
+Mechanical Engineering graduate transitioning into robotics software development, with a focus on **ROS 2, autonomous mobile robots, and navigation systems**.
 
-- ✉️ How to reach me: **eswarsatyavarapu7981@gmail.com**
+I enjoy developing robot applications, integrating software with robotic systems, and exploring autonomous navigation.
 
-- 🔎 LinkedIn: **http://linkedin.com/in/sai-eswar-satyavarapu-2952ab203**
+---
 
+### 🤖 Technical Skills
 
-<h3 align="left">Programming Languages:</h3>
-<div>
- <div>
-  JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- </div>
- <div>
-  Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </div>
-</div>
+**Programming Languages**
+- C++
+- Python
+- JavaScript
 
-<h4 align="left">Frontend Technologies, Libraries and FrameWorks</h4>
-<div>
- <div>
-  React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- </div>
- <div>
-  HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </div>
-  <div>
-  CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- </div>
- <div>
-  Material UI
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/materialui/materialui-plain.svg" width="40" height="40"/>
- </div>
-</div>
+**ROS 2**
+- Nodes, Topics, Publishers and Subscribers
+- Services and Actions
+- Custom Messages and Services
+- Parameters, Launch Files, TF2 and QoS
 
+**Robotics & Simulation**
+- URDF / Xacro
+- Gazebo Sim
+- RViz
+- SLAM
+- Nav2
 
-<h4 align="left">Backend Technologies, Libraries and FrameWorks:</h4>
-<div>
- <div>
-  Node <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </div>
- <div>
-  Express <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original-wordmark.svg" width="40" height="40"/> </div> JWT 
+**C++ & Software Development**
+- Object-Oriented Programming
+- Inheritance and Smart Pointers
+- STL and Callbacks
+- GoogleTest
+- CMake and colcon
 
- <div>
-  supabase client
- </div>
- <div>
-  bcrypt
- </div>
- </div>
-</div>
+**Tools & Environment**
+- Linux / Ubuntu
+- WSL
+- Git
 
+**Previous Software Development Experience**
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
 
-<h3 align="left">DataBase:</h3>
-<div>
- <div>
-  MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
- </div>
- <div>
-  MySQL  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- </div>
-</div>
+---
 
-<p align='center'>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswar7981&show_icons=true&locale=en&layout=compact" alt="eswar7981" 
-</p>
+### 🚀 Robotics Projects
+
+**1. ROS 2 Robot Control & Telemetry**
+
+Developed a C++-based robot simulation and control application using ROS 2.
+
+- Implemented publishers, subscribers, services and action servers.
+- Created custom ROS 2 messages and action interfaces.
+- Implemented robot motion control and parameter handling.
+- Added GoogleTest-based unit tests.
+- [repository link](https://github.com/eswar7981/ros2-robot-control-telemetry)
+
+**2. Warehouse Robot Navigation**
+
+Developed a simulated warehouse mobile robot using ROS 2 and Gazebo.
+
+- Created the robot model using URDF and Xacro.
+- Integrated the robot with Gazebo simulation.
+- Worked with SLAM for map generation.
+- Implemented autonomous navigation using Nav2.
+- Used RViz for visualization and debugging.
+- [repository link](https://github.com/eswar7981/ros2-warehouse-robot-navigation)
+
+---
+
+### 🛠️ Academic Robotics Projects
+
+**Robotic Tool Helper for Surgeries**
+- Developed a voice-assisted robotic arm for surgical instrument retrieval.
+- Created and annotated a custom image dataset and trained a YOLOv5 object-detection model.
+- Integrated Picovoice Rhino speech recognition.
+- Worked on camera-coordinate mapping, inverse kinematics and electromagnetic pickup.
+
+**Robo War Competition – Winner**
+- Fabricated and assembled a wedge-based defensive robot.
+- Worked on mechanical construction, electrical wiring and motor integration.
+- Implemented Bluetooth-based wireless control.
+
+---
+
+### 💼 Professional Experience
+
+**Backend Developer – Ariedge**
+- Developed backend application features using Node.js.
+- Worked on database operations and maintenance.
+- Gained professional experience in software development and debugging.
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** eswarsatyavarapu7981@gmail.com
+- **LinkedIn:** [Sai Eswar](http://linkedin.com/in/sai-eswar-satyavarapu-2952ab203)
