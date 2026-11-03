@@ -99,5 +99,5 @@ Developed a simulated warehouse mobile robot using ROS 2 and Gazebo.
 
 ### 📫 Connect With Me
 
-- **Email:** eswarsatyavarapu7981@gmail.com
+- **Email:** eswar.sai.developer@gmail.com
 - **LinkedIn:** [Sai Eswar](http://linkedin.com/in/sai-eswar-satyavarapu-2952ab203)
